@@ -1,0 +1,20 @@
+git init
+echo "First file" > file1.txt
+git add file1.txt
+git commit -m "First commit"
+
+echo "Second file" > file2.txt
+git add file2.txt
+git commit -m "Second commit"
+
+echo "Third file" > file3.txt
+git add file3.txt
+git commit -m "Third commit"
+
+echo "Fourth file" > file4.txt
+git add file4.txt
+git commit -m "Fourth commit"
+
+echo "Fifth file" > file5.txt
+git add file5.txt
+git commit -m "Fifth commit"
